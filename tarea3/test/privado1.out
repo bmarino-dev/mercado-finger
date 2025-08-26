@@ -1,0 +1,48 @@
+Bienvenido al programa principal de MercadoFinger. Por favor ingrese su comando:
+1> El grupoABB ha sido creado de forma exitosa.
+2> Cliente creadox de forma exitosa.
+3> Se ha agregado el cliente al grupo de forma exitosa.
+4> Cliente creadox de forma exitosa.
+5> Se ha agregado el cliente al grupo de forma exitosa.
+6> Cliente creadox de forma exitosa.
+7> Se ha agregado el cliente al grupo de forma exitosa.
+8> Cliente creadox de forma exitosa.
+9> Se ha agregado el cliente al grupo de forma exitosa.
+10> Cliente creadox de forma exitosa.
+11> Se ha agregado el cliente al grupo de forma exitosa.
+12> Cliente Nombre10 Apellido10
+Id: 10
+Edad: 10
+Cliente Nombre20 Apellido20
+Id: 20
+Edad: 20
+Cliente Nombre20 Apellido20
+Id: 20
+Edad: 20
+Cliente Nombre30 Apellido30
+Id: 30
+Edad: 30
+Cliente Nombre40 Apellido40
+Id: 40
+Edad: 40
+13> Grupo liberado con exito.
+14> El conjunto productos fue creado en forma correcta.
+15> El cardinal del conjunto es: 0.
+16> La cantidad maxima del conjunto es: 10.
+17> Se ejecuto 'insertarTConjuntoProductos' con producto de id 0 exitosamente.
+18> Se ejecuto 'insertarTConjuntoProductos' con producto de id 1 exitosamente.
+19> Se ejecuto 'insertarTConjuntoProductos' con producto de id 2 exitosamente.
+20> Se ejecuto 'borrarDeTConjuntoProductos' con producto de id 1 exitosamente.
+21> Se ejecuto 'insertarTConjuntoProductos' con producto de id 3 exitosamente.
+22> El cardinal del conjunto es: 3.
+23> La cantidad maxima del conjunto es: 10.
+24> Conjunto de productos:
+0 2 3 
+25> Conjunto de productos union:
+0 1 2 3 4 5 6 
+26> Conjunto de productos interseccion:
+3 
+27> Conjunto de productos diferencia:
+0 2 
+28> Conjunto de productos liberado exitosamente.
+29> Fin.

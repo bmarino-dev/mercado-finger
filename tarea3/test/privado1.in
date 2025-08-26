@@ -1,0 +1,29 @@
+crearClientesABB
+crearCliente 10 Nombre10 Apellido10 10
+agregarAClientesABB
+crearCliente 20 Nombre20 Apellido20 20
+agregarAClientesABB
+crearCliente 20 Nombre20 Apellido20 20
+agregarAClientesABB
+crearCliente 30 Nombre30 Apellido30 30
+agregarAClientesABB
+crearCliente 40 Nombre40 Apellido40 40
+agregarAClientesABB
+imprimirClientesABB
+liberarClientesABB
+crearConjuntoProductos 10
+cardinalConjuntoProductos
+cantMaxConjuntoProductos
+insertarConjuntoProductos 0
+insertarConjuntoProductos 1
+insertarConjuntoProductos 2
+borrarDeConjuntoProductos 1
+insertarConjuntoProductos 3
+cardinalConjuntoProductos
+cantMaxConjuntoProductos
+imprimirConjuntoProductos
+unionConjuntoProductos 5 1 3 4 5 6
+interseccionConjuntoProductos 5 1 3 4 5 6
+diferenciaConjuntoProductos 5 1 3 4 5 6
+liberarConjuntoProductos
+Fin

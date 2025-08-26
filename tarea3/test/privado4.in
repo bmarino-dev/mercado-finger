@@ -1,0 +1,24 @@
+crearHistorial 01/01/2024
+crearPromocion 01/12/2023 01/01/2024 10 5
+agregarPromocionHistorial
+crearPromocion 02/01/2024 15/02/2024 10 6
+agregarPromocionHistorial
+crearFecha 01/01/2024
+crearProducto 1 Producto1 Autor1 Apellido1
+agregarProductoAPromocionHistorial 5
+crearFecha 02/02/2024
+crearProducto 2 Producto2 Autor2 Apellido2
+agregarProductoAPromocionHistorial 6
+imprimirPromocionesFinalizadosHistorial
+imprimirPromocionesActivasHistorial
+imprimirPromocionesFuturasHistorial
+avanzarAFechaHistorial 05/01/2024
+imprimirPromocionesFinalizadosHistorial
+imprimirPromocionesActivasHistorial
+imprimirPromocionesFuturasHistorial
+crearPromocion 01/12/2023 15/12/2023 10 1
+agregarAPromocion 2 6 5
+esCompatiblePromocionHistorial
+liberarPromocion
+liberarHistorial
+Fin

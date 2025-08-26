@@ -1,0 +1,15 @@
+crearPromocion 01/01/2024 01/06/2024 50 1
+agregarAPromocion 2 0 1
+imprimirPromocion
+agregarAPromocion 2 5 6
+imprimirPromocion
+perteneceAPromocion 0
+perteneceAPromocion 1
+perteneceAPromocion 6
+idPromocion
+fechaInicioPromocion
+fechaFinPromocion
+sonPromocionesCompatibles 01/01/2023 01/06/2025 50 2 5 0 1 2 3 4
+sonPromocionesCompatibles 01/12/2023 01/06/2024 50 2 5 0 1 2 3 4
+liberarPromocion
+Fin
