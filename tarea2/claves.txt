@@ -1,5 +1,0 @@
-b5cd2756b244d2a77c5358d4270f1574589bfd86  src/cliente.cpp
-5f777690cc8b29bc330ae7c9c8993b3490ee6251  src/producto.cpp
-9668031809edcb83a37526fb42e66af047337d20  src/carritoProductos.cpp
-d5de4c48bf1fe57683f63c457ad0f8d7226f0a31  src/clientesABB.cpp
-761c53ece55fdc98a4be72bd2eb2aa03ea4f07fc  src/clientesSucursalesLDE.cpp
