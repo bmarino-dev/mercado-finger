@@ -8,7 +8,7 @@ Mercado ficticio realizado en C++ utilizando estructuras de datos como ABB, list
 
 ### ▶️ Cómo instalar y ejecutar el proyecto
 ```bash
-- Descargar WSL y un entorno Ubuntu para tener un entorno virtual y utilizar funciones de Linux en Windows.
+- Descargar WSL y Ubuntu para tener un entorno virtual y utilizar funciones de Linux en Windows.
 - Para instalar el compilador g++ en Ubuntu, escribe: $ sudo apt install g++.
 - Descargaremos Valgrind para detectar y corregir errores de memoria: $ sudo apt install valgrind.
 - Se deben tener instaladas las utilidades make, tar y gzip.
