@@ -1,0 +1,4 @@
+#ignorar
+obj/
+.vscode/
+claves.txt
